@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="kontakti.xsl"?>
+<contact_list>
+	<contact>
+		<name>
+			<lastname>Bērziņš</lastname>
+			<firstname>Jānis</firstname>
+		</name>
+		<phone type="cell">14567800</phone>
+		<phone type="work">87362565</phone>
+		<phone type="home">24855214</phone>
+		<note>Nodarbošanās: Zobārsts. SIA &quot;Rauj un ārstē&quot;</note>
+	</contact>
+	<contact>
+		<name>
+			<lastname>Purga</lastname>
+			<firstname>Miķelis</firstname>
+		</name>
+		<phone type="cell">12345678</phone>
+		<phone type="work"></phone>
+		<phone type="home">24855545</phone>
+		<note/>
+	</contact>
+	<contact>
+		<name>
+			<lastname>Kikarāns</lastname>
+			<firstname>Žanis</firstname>
+		</name>
+		<phone type="cell">21554678</phone>
+		<phone type="work">65362565</phone>
+		<phone type="home">25333554</phone>
+		<note>Nodarbošanās: Celtnieks.</note>
+	</contact>
+</contact_list>
